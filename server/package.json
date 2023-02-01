@@ -13,6 +13,6 @@
     "chalk": "^2.4.2",
     "express": "^4.17.1",
     "mongodb": "^3.3.3",
-    "mongoose": "^5.7.8"
+    "mongoose": "^5.13.15"
   }
 }
